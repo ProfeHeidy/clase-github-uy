@@ -3,3 +3,5 @@
 | :---               | :---           |
 
 | Profe Heidy       | Diseñar interfaces accesibles |
+
+|  Heidy            | Diseñador  |
