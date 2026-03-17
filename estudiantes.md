@@ -2,4 +2,4 @@ Alejandra Mazzeo| Hobby ESCUCHAR MUSICA |
 
 | :--- | :--- |
 
-| Profe Heidy | Diseñar interfaces accesibles |
+| ALEJANDRA MAZZEO MUSICA
