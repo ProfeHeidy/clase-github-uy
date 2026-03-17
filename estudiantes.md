@@ -1,4 +1,4 @@
-| Nombre y Apellido | Hobby Favorito |
+| José Pérez | Cocinar |
 
 | :--- | :--- |
 
