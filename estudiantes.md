@@ -3,3 +3,4 @@
 | :--- | :--- |
 
 | Profe Heidy | Diseñar interfaces accesibles |
+| Joan Carro  | Leer filosofía |
