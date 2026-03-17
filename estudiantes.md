@@ -4,4 +4,4 @@
 
 | Profe Heidy       | Diseñar interfaces accesibles |
 
-|  Heidy            | Diseñador  |
+|  Heidy            | Diseñadora |
